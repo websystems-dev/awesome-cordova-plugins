@@ -1,3 +1,11 @@
+# [6.9.0](https://github.com/danielsogl/awesome-cordova-plugins/compare/v6.9.0...v6.10.0) (2024-09-13)
+
+
+### Features
+
+* **applovin:** added "onRewardedAdReceivedReward" observable
+
+
 # [6.9.0](https://github.com/danielsogl/awesome-cordova-plugins/compare/v6.8.0...v6.9.0) (2024-09-13)
 
 

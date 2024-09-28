@@ -337,4 +337,12 @@ export class Applovin extends AwesomeCordovaNativePlugin {
   onRewardedAdAdFailedToDisplay(): Observable<AdInfo> {
     return;
   }
+
+  @Cordova({
+    eventObservable: true,
+    event: 'OnRewardedAdReceivedRewardEvent',
+  })
+  onRewardedAdReceivedReward(): Observable<AdInfo> {
+    return;
+  }
 }
